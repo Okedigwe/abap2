@@ -1,0 +1,11 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "SAP Object Node Type ZRAP100_ATRAV01A",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "name": "ZRAP100_ATRAV01A",
+  "sapObjectType": "ZRAP100_ATRAV01A",
+  "rootNode": true
+}

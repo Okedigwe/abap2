@@ -1,0 +1,26 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Page for travel 01A",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "title": "Travel App 01A"
+  },
+  "sections": [
+    {
+      "id": "SECTION_01A",
+      "title": "Section 01A",
+      "visualizations": [
+        {
+          "id": "APP_DESCRIPTOR_ITEM_01A",
+          "ladiAssignment": {
+            "ladiId": "APP_DESCRIPTOR_ITEM_01A",
+            "tileId": "UI5R_CC8F795650364F8AAA644302A8075BE57CEE915B_AL"
+          }
+        }
+      ]
+    }
+  ]
+}
